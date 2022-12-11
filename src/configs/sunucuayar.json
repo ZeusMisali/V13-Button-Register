@@ -1,0 +1,23 @@
+{
+  "staffs": ["staff"],
+  "erkekRolleri": ["1011989900670799962"],
+  "kizRolleri": ["1011989886649249932"], 
+  "unregRoles": ["1011989965468610631"],
+  "yetkiRolleri": ["yetkirol","yetkirol2"],
+  "teyitciRolleri": ["teyitci"],
+  "ekipRolu": "family",
+  "sahipRolu": ["ownerrol","ownerrol2"],
+  "boosterRolu": "boosterid",
+
+  "tag": "Zeus",
+  "tag2": "Zeus",
+  "ikinciTag": "Zeus",
+  "fakeAccRole": ["süpheli"],
+
+  "chatChannel": "generalchat",
+  "teyitKanali": "registerchat",
+  "invLogChannel": "invitelog",
+  "kurallar": "kurallar",
+  "seskayit": "register-kayit"
+
+}
